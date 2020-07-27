@@ -1,3 +1,0 @@
-/home/gpu/Desktop/covid_sim_gpu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/gpu/Desktop/covid_sim_gpu/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/gpu/Desktop/covid_sim_gpu/cmake-build-debug/CMakeFiles/Desktop.dir
