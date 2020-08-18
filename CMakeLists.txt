@@ -3,7 +3,7 @@ project(Desktop CUDA)
 
 set(CMAKE_CUDA_STANDARD 14)
 
-add_executable(Desktop main.cu)
+add_executable(Desktop main.cu Helper.cu Helper.cuh)
 
 set_target_properties(
         Desktop
